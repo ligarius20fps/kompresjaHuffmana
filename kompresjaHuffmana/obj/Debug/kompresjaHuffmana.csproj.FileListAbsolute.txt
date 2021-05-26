@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\bin\Debug\kompresjaHuffmana.exe.config
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\bin\Debug\kompresjaHuffmana.exe
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\bin\Debug\kompresjaHuffmana.pdb
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\obj\Debug\kompresjaHuffmana.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\obj\Debug\kompresjaHuffmana.Form1.resources
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\obj\Debug\kompresjaHuffmana.Properties.Resources.resources
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\obj\Debug\kompresjaHuffmana.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\obj\Debug\kompresjaHuffmana.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\obj\Debug\kompresjaHuffmana.exe
+C:\Users\admin\source\repos\kompresjaHuffmana\kompresjaHuffmana\obj\Debug\kompresjaHuffmana.pdb
